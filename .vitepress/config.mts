@@ -5,18 +5,23 @@ export default defineConfig({
   description: "an elegant blog",
   themeConfig: {
     nav: [
-      { text: '设计', link: '/Design/1' },
+      {
+        text: '设计',
+        items: [
+          {text: '设计原则', link: '/Design/principle'}
+        ]
+      },
     ],
 
     sidebar: [
       {
-        text: '超人零基础UI精品实战班6期',
+        text: '如何增加设计的使用性？',
         items: [
-          { text: '第一节课', link: '/Design/1' },
+          { text: '8020法则', link: '/Design/principle/8020' },
+          { text: '美即适用效应', link: '/Design/principle/beauty-is-applicable-effect' },
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ukea' }
     ]
