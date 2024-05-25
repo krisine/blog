@@ -3,6 +3,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "风雅颂",
   description: "an elegant blog",
+  head: [
+    ['link', {rel: 'icon', href: '/favicon.svg'}]
+  ],
   themeConfig: {
     nav: [
       {
