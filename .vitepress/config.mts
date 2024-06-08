@@ -58,8 +58,8 @@ export default defineConfig({
         }
       ],
     },
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/ukea' }
-    ]
+    // socialLinks: [
+    //   { icon: 'github', link: 'https://github.com/ukea' }
+    // ]
   }
 })
