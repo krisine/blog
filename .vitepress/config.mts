@@ -4,7 +4,8 @@ const nav = [
   {
     text: '产品',
     items: [
-      {text: 'NPDP', link: '/pm/NPDP'}
+      {text: 'NPDP', link: '/pm/NPDP'},
+      {text: '产品设计', link: '/pm/design' }
     ]
   },
   {
@@ -66,8 +67,8 @@ const sidebar = {
 };
 
 export default defineConfig({
-  title: "风雅颂",
-  description: "an elegant blog",
+  title: "Evo UniQue Dynamics",
+  description: "风雅颂",
   head: [
     ['link', {rel: 'icon', href: '/favicon.svg'}]
   ],
@@ -77,5 +78,7 @@ export default defineConfig({
     // socialLinks: [
     //   { icon: 'github', link: 'https://github.com/ukea' }
     // ]
-  }
+  },
+  appearance: 'dark',
+  lastUpdated: true,
 })
