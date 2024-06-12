@@ -1,6 +1,11 @@
 import { defineConfig } from 'vitepress'
+import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar'
 
 const nav = [
+  {
+    text: '泛微',
+    link: '/今承达'
+  },
   {
     text: '产品',
     items: [
@@ -14,6 +19,12 @@ const nav = [
       {text: '设计的125条通用法则', link: '/Design/principle'}
     ]
   },
+  {
+    text: '开发',
+    items: [
+      {text: '前端', link: '/dev/front-end'}
+    ]
+  }
 ];
 
 const sidebar = {
@@ -67,18 +78,27 @@ const sidebar = {
 };
 
 export default defineConfig({
-  title: "Evo UniQue Dynamics",
+  title: "风雅颂",
   description: "风雅颂",
   head: [
     ['link', {rel: 'icon', href: '/favicon.svg'}]
   ],
   themeConfig: {
     nav,
-    sidebar,
+    // sidebar,
     // socialLinks: [
     //   { icon: 'github', link: 'https://github.com/ukea' }
     // ]
   },
   appearance: 'dark',
   lastUpdated: true,
+  vite: {
+    plugins: [
+      // add plugin
+      AutoSidebar({
+        // https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar
+        path: '/',
+      })
+    ]
+  }
 })
