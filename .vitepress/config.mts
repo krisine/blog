@@ -1,30 +1,21 @@
 import { defineConfig } from 'vitepress'
 import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar'
 
+const themeList = [ '🌳 Life 生活', '🎨 Figma', '💻 Dev 开发', '💼 今承达', '📦 Product Design 产品设计' ];
+
 const nav = [
-  {
-    text: '泛微',
-    link: '/今承达'
-  },
-  {
-    text: '产品',
-    items: [
-      {text: 'NPDP', link: '/pm/NPDP'},
-      {text: '产品设计', link: '/pm/design' }
-    ]
-  },
+  ...themeList.map(v=> {
+    return {
+      text: v,
+      link: '/' + v
+    }
+  }),
   {
     text: '设计',
     items: [
       {text: '设计的125条通用法则', link: '/Design/principle'}
     ]
   },
-  {
-    text: '开发',
-    items: [
-      {text: '前端', link: '/dev/front-end'}
-    ]
-  }
 ];
 
 export default defineConfig({

@@ -11,24 +11,15 @@
             "id": "713244fad00bf071",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "03235f46f2bafdb9",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "💻 Tech 技术/macOS 如何在合上 MacBook 盖子的时候保持不进入睡眠？.md",
+                "file": "📦 Product Design 产品设计/能力模型.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Tech 技术/macOS 如何在合上 MacBook 盖子的时候保持不进入睡眠？.md",
+                "file": "📦 Product Design 产品设计/能力模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻 Tech 技术/macOS 如何在合上 MacBook 盖子的时候保持不进入睡眠？.md",
+                "file": "📦 Product Design 产品设计/能力模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💻 Tech 技术/macOS 如何在合上 MacBook 盖子的时候保持不进入睡眠？.md"
+                "file": "📦 Product Design 产品设计/能力模型.md"
               }
             }
           }
@@ -156,8 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03235f46f2bafdb9",
+  "active": "f7c8e1024a445fbe",
   "lastOpenFiles": [
+    "📦 Product Design 产品设计/B端产品设计 - 酸梅干超人/design/index.md",
+    "📦 Product Design 产品设计/🎨 UI 用户界面设计/超人的设计课程/2.md",
+    "📦 Product Design 产品设计/🎨 UI 用户界面设计/超人的设计课程/1.md",
+    "📦 Product Design 产品设计/设计准则/8020.md",
+    "转载声明.md",
+    "guides/hello.md",
+    "guides/example.md",
+    "🧠 思维模型/index.md",
+    "💻 Dev 开发/Mac/优秀工具.md",
+    "📦 Product Design 产品设计/B端产品设计 - 酸梅干超人/3. 产品需求分析和优先级.md",
+    "📦 Product Design 产品设计/B端产品设计 - 酸梅干超人/2. 项目的立项和业务分析详解.md",
+    "📦 Product Design 产品设计/B端产品设计 - 酸梅干超人/1.md",
+    "💻 Dev 开发/macOS 如何在合上 MacBook 盖子的时候保持不进入睡眠？.md",
     "public/Xnip2024-03-31_22-39-28.png",
     "public/houston.webp",
     "public/B端产研协作工具升级13.png",
@@ -168,41 +172,28 @@
     "public/B端产研协作工具升级8.png",
     "public/B端产研协作工具升级7.png",
     "public/B端产研协作工具升级6.png",
-    "public/B端产研协作工具升级5.png",
-    "📺 视频课程/📺 3节课：产品经理课程/产品助理：产品经理入门课程/第5节课：「需求训练」分析用户需求.md",
-    "📺 视频课程/📺 3节课：产品经理课程/产品助理：产品经理入门课程/第4节课：如何用产品视角来认识产品.md",
-    "📺 视频课程/📺 3节课：产品经理课程/产品助理：产品经理入门课程/第3节课 模块一 【导论解密】学习与成长.md",
-    "📺 视频课程/📺 3节课：产品经理课程/产品助理：产品经理入门课程/第2节课 认识产品经理.md",
-    "📺 视频课程/📺 3节课：产品经理课程/产品助理：产品经理入门课程/第1节课 导论.md",
-    "📺 视频课程/📺 3节课：产品经理课程/产品助理：产品经理入门课程",
-    "📺 视频课程/📺 3节课：产品经理课程/index.md",
-    "📺 视频课程/📺 3节课：产品经理课程",
+    "📦 Product Design 产品设计/📺 3节课：产品经理课程/产品助理：产品经理入门课程/第5节课：「需求训练」分析用户需求.md",
+    "📦 Product Design 产品设计/📺 3节课：产品经理课程/产品助理：产品经理入门课程/第4节课：如何用产品视角来认识产品.md",
+    "📦 Product Design 产品设计/📺 3节课：产品经理课程/产品助理：产品经理入门课程/第3节课 模块一 【导论解密】学习与成长.md",
+    "📦 Product Design 产品设计/📺 3节课：产品经理课程/产品助理：产品经理入门课程/第2节课 认识产品经理.md",
+    "📦 Product Design 产品设计/📺 3节课：产品经理课程/产品助理：产品经理入门课程/第1节课 导论.md",
+    "📦 Product Design 产品设计/📺 3节课：产品经理课程/产品助理：产品经理入门课程",
+    "📦 Product Design 产品设计/📺 3节课：产品经理课程/index.md",
+    "📦 Product Design 产品设计/📺 3节课：产品经理课程",
     "📺 视频课程",
-    "Mac/优秀工具.md",
-    "Mac",
-    "guides/hello.md",
-    "guides/example.md",
+    "💻 Dev 开发/Mac",
     "guides",
-    "Figma/index.md",
-    "Figma",
+    "🎨 Figma/index.md",
+    "🎨 Figma",
     "assets",
-    "AI/Midjourney/prompts.md",
-    "AI/Midjourney/drawing.md",
-    "AI/index.md",
-    "AI/Midjourney",
-    "AI",
-    "思维模型/index.md",
-    "思维模型",
-    "生活/幸福的积分/2. 为何要写这篇文章？.md",
-    "生活/幸福的积分/3. 幸福的定义.md",
-    "生活/幸福的积分/1. 序：你还剩多少时间追求幸福？.md",
-    "生活/幸福的积分/0. 写在前面.md",
-    "生活/札记/长期相处的爱情的特点.md",
-    "生活/珍藏作品.md",
-    "泛微/各模块负责人.md",
-    "产品/用户体验要素/3. 战略层-产品目标和用户需求.md",
-    "产品/用户体验要素/2. 初识用户体验要素.md",
-    "产品/十点半聊产品/B端产研协作工具体验升级.md",
-    "产品/十点半聊产品/5W2H，帮助你梳理B端产品业务流程.md"
+    "🤖 AI  人工智能/Midjourney/prompts.md",
+    "🤖 AI  人工智能/Midjourney/drawing.md",
+    "🤖 AI  人工智能/index.md",
+    "🤖 AI  人工智能/Midjourney",
+    "🤖 AI  人工智能",
+    "🧠 思维模型",
+    "🌳 Life 生活/幸福的积分/2. 为何要写这篇文章？.md",
+    "🌳 Life 生活/幸福的积分/3. 幸福的定义.md",
+    "🌳 Life 生活/幸福的积分/1. 序：你还剩多少时间追求幸福？.md"
   ]
 }
