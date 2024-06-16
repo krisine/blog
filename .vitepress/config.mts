@@ -9,13 +9,7 @@ const nav = [
       text: v,
       link: '/' + v
     }
-  }),
-  {
-    text: '设计',
-    items: [
-      {text: '设计的125条通用法则', link: '/Design/principle'}
-    ]
-  },
+  })
 ];
 
 export default defineConfig({
