@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📦 产品设计/有趣的交互设计资源.md",
+                "file": "日本語/多邻国.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📦 产品设计/有趣的交互设计资源.md",
+                "file": "日本語/多邻国.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📦 产品设计/有趣的交互设计资源.md",
+                "file": "日本語/多邻国.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📦 产品设计/有趣的交互设计资源.md"
+                "file": "日本語/多邻国.md"
               }
             }
           }
@@ -149,8 +149,13 @@
   },
   "active": "713244fad00bf071",
   "lastOpenFiles": [
-    "💼 今承达/契约锁集成/1. 单点登录配置.md",
+    "日本語/index.md",
     "📦 产品设计/有趣的交互设计资源.md",
+    "日本語/多邻国.md",
+    "日本語",
+    "日语/多邻国.md",
+    "日语",
+    "💼 今承达/契约锁集成/1. 单点登录配置.md",
     "关联关系证明函",
     "反商业贿赂条款.txt",
     "🔧 工具/Proxy/1.txt",
@@ -189,11 +194,6 @@
     "🤖 AI",
     "🔮 前端/JavaScript/JavaScript Info/2.5 数据类型 Data types.md",
     "🔮 前端/JavaScript/JavaScript Info/2.4 变量 Variables.md",
-    "🔮 前端/JavaScript/JavaScript Info",
-    "🔮 前端/JavaScript",
-    "🔧 工具/Proxy/1.md",
-    "🔧 工具/Proxy/0.md",
-    "🔧 工具/浏览器书签🔖 整理.md",
-    "🔧 工具/GitHub 上的好用工具.md"
+    "🔧 工具/Proxy/1.md"
   ]
 }
