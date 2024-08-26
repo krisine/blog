@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad1107c68f536f5a",
+        "id": "b2b7cd49ad3ceda1",
         "type": "tabs",
         "children": [
           {
-            "id": "713244fad00bf071",
+            "id": "af32a4d3ba147488",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/多邻国.md",
+                "file": "es/101.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語/多邻国.md",
+                "file": "es/101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語/多邻国.md",
+                "file": "es/101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語/多邻国.md"
+                "file": "es/101.md"
               }
             }
           }
@@ -147,11 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "713244fad00bf071",
+  "active": "af32a4d3ba147488",
   "lastOpenFiles": [
+    "es/101.md",
+    "Español/现代西班牙语.md",
+    "es/现代西班牙语.md",
+    "es",
+    "日本語/五十音.md",
+    "Español",
+    "📝 Memo/index.md",
     "日本語/index.md",
-    "📦 产品设计/有趣的交互设计资源.md",
     "日本語/多邻国.md",
+    "📦 产品设计/有趣的交互设计资源.md",
     "日本語",
     "日语/多邻国.md",
     "日语",
@@ -187,13 +194,6 @@
     "🔮 前端/index.md",
     "🔧 工具/index.md",
     "👁️ 护眼/index.md",
-    "🤖 AI/Midjourney/prompts.md",
-    "🤖 AI/Midjourney/drawing.md",
-    "🤖 AI/index.md",
-    "🤖 AI/Midjourney",
-    "🤖 AI",
-    "🔮 前端/JavaScript/JavaScript Info/2.5 数据类型 Data types.md",
-    "🔮 前端/JavaScript/JavaScript Info/2.4 变量 Variables.md",
-    "🔧 工具/Proxy/1.md"
+    "🤖 AI/Midjourney/prompts.md"
   ]
 }
