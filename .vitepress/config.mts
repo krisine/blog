@@ -14,17 +14,21 @@ import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar'
 
 const nav = [
   {
-    text: '🗣️ 语言 Language',
+    text: '🗣️ 语言学习 Language',
     items: [
-      { text: '🇯🇵日本語', link: '/日本語/五十音' },
       { text: '🇪🇸Español', link: '/es/101' },
+      { text: '🇯🇵日本語', link: '/日本語/五十音' },
     ]
+  },
+  {
+    text: '💼 工作',
+    link: '/💼 工作',
   }
 ]
 
 export default defineConfig({
   title: "Favany",
-  description: "",
+  description: "Favany's Blog",
   head: [
     ['link', {rel: 'icon', href: '/favicon.svg'}]
   ],
