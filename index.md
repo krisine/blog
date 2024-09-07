@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: 关于我
       link: /about-me
+    - theme: alt
+      text: 联系我 Contact Me
+      link: mailto:olj@outlook.com
 
 features:
   - title: Feature A
