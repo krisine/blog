@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "63f036f86bacbac2",
+        "id": "ad1107c68f536f5a",
         "type": "tabs",
         "children": [
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💼 工作/各模块负责人.md",
+                "file": "💼 工作/权责矩阵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +149,6 @@
   },
   "active": "516c8a0f1416248c",
   "lastOpenFiles": [
-    "backup.js",
-    "💼 工作/表单布局的示例样式.md",
-    "💼 工作/E10字段的修改.md",
-    "🔖 书签/index.md",
-    "🌍 旅行",
-    "🔖 书签",
-    "💼 工作/契约锁集成/2. 新建应用登录到契约锁页面.md",
-    "💼 工作/比对.md",
-    "public/202409041447.png",
-    "public/202409041445.png",
-    "💼 工作/权责矩阵.md",
     "📦 产品设计/🎨 Figma/index.md",
     "📦 产品设计/🎨 Figma",
     "💻 Dev/🔮 前端/JavaScript/JavaScript Info/2.5 数据类型 Data types.md",
@@ -173,7 +162,6 @@
     "🌳 生活/👁️ 护眼",
     "public/01-03.mp3",
     "public/01-02.mp3",
-    "public/01-01.mp3",
     "es/index.md",
     "public/SCR-20240903-mpqf-2_副本.png",
     "public/SCR-20240903-mpqf-2 1.png",
