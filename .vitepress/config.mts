@@ -1,29 +1,22 @@
 import { defineConfig } from 'vitepress'
 import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar'
 
-// const themeList = [ '🌳 生活', '🎨 Figma', '👁️ 护眼', '💻 Dev', '💼 今承达', '📝 Memo', '📦 产品设计', '🔧 工具', '🔮 前端', '🤖 AI', '🧑‍💼 职场', '🧠 思维模型', '日本語' ];
-
-// const nav = [
-//   ...themeList.map(v=> {
-//     return {
-//       text: v,
-//       link: '/' + v
-//     }
-//   })
-// ];
+const themeList = [ '🌳 生活', '💻 开发 Dev', '💼 工作', '📦 产品设计', '🔧 工具', '🤖 AI', '🧑‍💼 职场', '🧠 思维模型'];
 
 const nav = [
+  ...themeList.map(v=> {
+    return {
+      text: v,
+      link: '/' + v
+    }
+  }),
   {
-    text: '🗣️ 语言学习 Language',
+    text: '语言 Language',
     items: [
       { text: '🇪🇸Español', link: '/es/101' },
       { text: '🇯🇵日本語', link: '/日本語/五十音' },
     ]
   },
-  {
-    text: '💼 工作',
-    link: '/💼 工作',
-  }
 ]
 
 export default defineConfig({

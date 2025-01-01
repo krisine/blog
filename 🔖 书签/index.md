@@ -1,0 +1,3 @@
+- [一个纯粹的机器学习&AI导航网站](https://ai.zhanglearning.com/)
+- [Microsoft Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)
+- 
