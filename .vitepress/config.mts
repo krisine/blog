@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar'
 
-const themeList = [ '🌳 生活', '💻 开发 Dev', '💼 工作', '📦 产品设计', '🔧 工具', '🤖 AI', '🧑‍💼 职场', '🧠 思维模型'];
+const themeList = [ '🌳 生活', '💻 开发 Dev', '💼 工作', '📦 产品设计', '🔧 工具', '🤖 AI', '🧑‍💼 职场', '🧠 锁思锁想'];
 
 const nav = [
   ...themeList.map(v=> {
@@ -11,17 +11,17 @@ const nav = [
     }
   }),
   {
-    text: '语言 Language',
+    text: '🗣️ 语言学习',
     items: [
-      { text: '🇪🇸Español', link: '/es/101' },
-      { text: '🇯🇵日本語', link: '/日本語/五十音' },
+      { text: '🇪🇸 Español', link: '/es/101' },
+      { text: '🇯🇵 日本語', link: '/日本語/五十音' },
     ]
   },
 ]
 
 export default defineConfig({
-  title: "Favany",
-  description: "Favany's Blog",
+  title: "Cristine",
+  description: "Cristine's Blog",
   head: [
     ['link', {rel: 'icon', href: '/favicon.svg'}]
   ],

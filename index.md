@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Favany"
+  name: "Cristine"
   text: "Openness, Freedom, Democracy and Fraternity"
   tagline: A Large, Open-Source Platform for Knowledge.
   image:
