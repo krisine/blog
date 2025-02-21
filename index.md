@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 阅读文档
-      link: /docs
+      link: /PMP/
     - theme: alt
       text: 关于我
       link: /about-me
